@@ -1,0 +1,24 @@
+.jumbotron-fluid
+{
+    background: url("images/header_bg.jpg") no-repeat center center;
+    height: 100vh;
+}
+
+.intro
+{
+    position: relative;
+    top: 35%;
+}
+
+.header-text
+{
+    color: white;
+    text-align: center;
+    font-size: 8vw;
+}
+
+.card-img-top {
+    width: 100%;
+    max-height: 50vh;    
+    object-fit: cover;
+}
